@@ -3,4 +3,4 @@ Git is free software.
 version 3
 version 18
 git is free software.
-create a new breanck is quick and simple
+create a new breanck is quick & simple
